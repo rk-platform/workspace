@@ -29,7 +29,7 @@ Then open the app from Launchpad or Spotlight.
 
 updates RK and, when a newer app has been released here, the app as well. The two are released
 separately: the app asks the daemon it connects to which commands it has, so a newer RK does
-not need a newer app.
+not need a newer app. [CHANGELOG.md](CHANGELOG.md) lists what changed in each release.
 
 ## License
 
