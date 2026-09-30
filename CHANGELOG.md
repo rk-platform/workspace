@@ -5,9 +5,18 @@ What changed in each release of RK Workspace, the desktop app for
 
 ## Unreleased
 
+## 0.1.47 (2026-09-30)
+
+This is the pre-alpha-1 release.
+- A project's collection runs sit together under `runs/` in the tree.
+- Waive a blocker from the command palette.
+- Plugin support for collection plugins.
+- Doctor updated.
+- Improvements and bugfixes.
+
 ## 0.1.46 (2026-09-27)
 
-- Improvments and bugfixes
+- Improvements and bugfixes
 
 ## 0.1.45 (2026-09-27)
 
