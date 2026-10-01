@@ -5,6 +5,11 @@ What changed in each release of RK Workspace, the desktop app for
 
 ## Unreleased
 
+## 0.1.48 (2026-10-01)
+
+- Opening a folder that is not a project now asks whether to make it one.
+- A document the AI is writing in, such as case.md during direction, now updates on screen as it changes.
+
 ## 0.1.47 (2026-09-30)
 
 This is the pre-alpha-1 release.
