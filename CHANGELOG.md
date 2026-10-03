@@ -3,6 +3,10 @@
 What changed in each release of RK Workspace, the desktop app for
 [RK](https://github.com/rk-platform/core).
 
+## 0.1.50 (2026-10-03)
+
+- Bugfixes for sync and update
+
 ## 0.1.49 (2026-10-03)
 
 - Projects can sync to a git host, turned on and off per project in Settings → Sync, which also shows the remote, the last sync and any error; a copy can be fetched onto another machine with Get project from remote, and the status bar shows how the sync stands.
