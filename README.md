@@ -35,4 +35,4 @@ not need a newer app. [CHANGELOG.md](CHANGELOG.md) lists what changed in each re
 
 ## License
 
-RK Workspace is proprietary software, under the same license as RK. See [LICENSE](LICENSE).
+RK Workspace is proprietary software, under the same end user license agreement as RK. See [LICENSE](LICENSE).
