@@ -3,6 +3,10 @@
 What changed in each release of RK Workspace, the desktop app for
 [RK](https://github.com/rk-platform/core).
 
+## 0.1.51 (2026-10-04)
+
+- The rk version in the status bar follows rk when it restarts or updates, without reopening RK Workspace.
+
 ## 0.1.50 (2026-10-03)
 
 - Bugfixes for sync and update
