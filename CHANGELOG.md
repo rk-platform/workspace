@@ -3,7 +3,13 @@
 What changed in each release of RK Workspace, the desktop app for
 [RK](https://github.com/rk-platform/core).
 
+## 0.2.1 (2026-10-12)
+
+- Bug fixes and improvements.
+
 ## 0.2.0 (2026-10-11)
+
+This is the pre alpha release number 4.
 
 - Plugins: install from any marketplace, repository or JSON in Settings → Plugins, including plugins written for the open Agent Plugins standard. Sign in with browser, code or QR code, with more than one account.
 - Marketplace: curated list of recommended plugins plus rk collection plugins.
