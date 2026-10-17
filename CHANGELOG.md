@@ -3,6 +3,16 @@
 What changed in each release of RK Workspace, the desktop app for
 [RK](https://github.com/rk-platform/core).
 
+## 0.3.0 (2026-10-17)
+
+This is the pre alpha release number 5.
+- Windows and menus: a window per project, several at once, and every command in the Mac menu bar.
+- rk-ignored files: the tree shows what rk does not index, in italics, and a setting hides it.
+- Ingest into KB: any document in your project can be taken into the knowledge base from its right-click menu, keeping the original.
+- Run again: right-click a run's folder to run it again, or carry a web research on.
+- Plugin updates: Settings shows when a plugin has a newer version, and updates it in one click.
+- Bug fixes and improvements.
+
 ## 0.2.1 (2026-10-12)
 
 - Bug fixes and improvements.
